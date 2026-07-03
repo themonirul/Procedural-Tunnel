@@ -1,0 +1,6 @@
+{
+  "name": "3D Cubic Tunnel",
+  "description": "An immersive 3D cubic tunnel experience built with React Three Fiber.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
